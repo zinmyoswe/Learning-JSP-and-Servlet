@@ -1,0 +1,5 @@
+package com.saunghninoo;
+
+public class AddServlet extends HttpServlet {
+
+}
